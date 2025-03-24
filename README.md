@@ -15,9 +15,6 @@ Task Mate is a simple and elegant To-Do application built with Flutter and Hive 
 💾 Local Storage using Hive
 
 
-🌙 Light/Dark Mode Support
-
-
 📅 Task Scheduling with Date & Time
 
 
